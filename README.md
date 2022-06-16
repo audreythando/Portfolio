@@ -7,7 +7,7 @@
 
  My personal portfolio site, developed in ReactJS.
  Here's the URL of the deployed app on Netlify:
-[Demo](https://audreyportfolio.netlify.app)
+[Demo](https://rococo-brioche-dfbe0e.netlify.app/)
 
 # Technologies Used
 
