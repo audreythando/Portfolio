@@ -1,13 +1,13 @@
 # Personal Portfolio
-![Home-page](assets/projects.png)
+![Home-page](./src/assets/home.png)
 
-![Projects](assets/projects.png)
+![Projects](./src/assets/projects.png)
 
 # Introduction
 
  My personal portfolio site, developed in ReactJS.
  Here's the URL of the deployed app on Netlify:
-[Demo](https://chuckswapi.netlify.app)
+[Demo](https://audreyportfolio.netlify.app)
 
 # Technologies Used
 
@@ -31,9 +31,3 @@ To get started, follow the below steps:
 ```sh
  npm start
 ```
-   
-
-
-
-
-
