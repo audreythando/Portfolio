@@ -9,7 +9,7 @@
  Here's the URL of the deployed app on Netlify:
 [Demo](https://rococo-brioche-dfbe0e.netlify.app/)
 
-# Technologies Used
+# Uses
 
 * React (v16.13.1)
 * React Hooks
