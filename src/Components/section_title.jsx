@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function SectionTitle(props) {
+export default function sectionTitle(props) {
     const { title, subTitle, desc } = props;
     return (
         <div className="row justify-content-center">

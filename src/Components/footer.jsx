@@ -2,7 +2,7 @@ import React from 'react'
 import { FaAngleUp } from "react-icons/fa";
 import { animateScroll as scroll } from 'react-scroll';
 
-export default function Footer() {
+export default function footer() {
     const goHome = (e) => {
         e.preventDefault();
         scroll.scrollToTop();

@@ -4,7 +4,7 @@ import { FaBars } from "react-icons/fa";
 import { Link } from 'react-scroll';
 import { Link as ReactLink } from "react-router-dom";
 
-export default function Header() {
+export default function header() {
     return (
         <div className="header-area">
             <div className="container mt-60">

@@ -3,7 +3,7 @@ import logoImg from "../assets/images/logo/logo.png";
 import { Navbar } from "react-bootstrap";
 import { Link as ReactLink } from "react-router-dom";
 
-export default function HeaderTwo() {
+export default function headerTwo() {
     return (
         <div className="header-area">
             <div className="container mt-60">

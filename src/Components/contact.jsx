@@ -4,9 +4,9 @@ import {
     FaPhone,
     FaGithub
 } from "react-icons/fa";
-import SectionTitle from "./SectionTitle";
+import SectionTitle from "./section_title";
 
-export default function Contact() {
+export default function contact() {
     return (
         <div className="contact-area section-ptb" id="contact">
             <div className="container">

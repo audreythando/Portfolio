@@ -12,7 +12,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 
 
-export default function SliderContainer() {
+export default function slider() {
     const SamplePrevArrow = (props) => {
         const { className, style, onClick } = props;
         return (
