@@ -4,7 +4,7 @@ import {
     FaPhone,
     FaGithub
 } from "react-icons/fa";
-import SectionTitle from "./section_title";
+import SectionTitle from "./SectionTitle";
 
 export default function Contact() {
     return (

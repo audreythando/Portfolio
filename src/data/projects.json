@@ -12,8 +12,7 @@
         {
             "id": 2,
             "title": "Huddle",
-            "projImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1554378991/Challenges/aaykth21moiquxkubywu.jpg",
-            "featured": true,
+            "projImage": "https://designshack.net/wp-content/uploads/placeholder-image.png",
             "url": "https://audreythando.github.io/Huddle/",
             "repo": "https://github.com/audreythando/Huddle",
             "smallDesc": "Huddle re-imagines the way we build communities. You have a voice, but so does your audience."
@@ -29,10 +28,11 @@
         {
             "id": 4,
             "title": "Base Apparel",
-            "projImage": "https://designshack.net/wp-content/uploads/placeholder-image.png",
+            "featured": true,
+            "projImage": "https://res.cloudinary.com/dz209s6jk/image/upload/v1564914815/Challenges/oxwdbpj64r1au0gp1frc.jpg",
             "url": "https://audreythando.github.io/base-apparel/",
             "repo": "https://github.com/audreythando/base-apparel",
-            "smallDesc": "Hello fellow shoppers! We're currently building our new fashion store"
+            "smallDesc": "Hello fellow shoppers! We're currently building our new fashion store. Add your contact details."
         },
         {
             "id": 5,

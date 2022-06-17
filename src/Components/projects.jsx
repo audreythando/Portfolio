@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from "react-router-dom";
 import { FaAngleRight } from "react-icons/fa";
 import projects from "../data/projects";
-import SectionTitle from "./section_title";
+import SectionTitle from "./SectionTitle";
 
 export default function Projects() {
     const [posts, setPosts] = useState([]);
