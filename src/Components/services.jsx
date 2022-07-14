@@ -14,12 +14,8 @@ export default function services() {
             <div className="container">
                 <SectionTitle
                     title="OVERVIEW"
-                    subTitle="Why i want to join SovTech"
-                    desc="My primary reason for wanting to join the SovTech graduate program is because after in-depth research of what SovTech does, 
-                    I’m filled with so much excitement! Being given the opportunity to work at a #Wordclass software company would be a privilege. 
-                    I #GiveAShit about working in a flexible and fluid environment that is filled with opportunities to explore different avenues 
-                    and roles, I feel SovTech is one such place. Below is a brief overview of some of the skills i possess that would be valuable to
-                    SovTech:"
+                    subTitle="What i do"
+                    desc=""
                 />
             </div>
             <div className="container">

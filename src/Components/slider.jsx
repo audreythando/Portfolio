@@ -108,7 +108,7 @@ export default function slider() {
                                                     duration={2000}
                                                     activeClass="active"
                                                     spy={false}
-                                                    offset={5}> Why i want to join SovTech &nbsp; <i><FaLongArrowAltDown /></i></Link>
+                                                    offset={5}> What i do &nbsp; <i><FaLongArrowAltDown /></i></Link>
                                             </div>
                                         </div>
                                     </div>
