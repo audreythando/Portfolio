@@ -14,7 +14,7 @@ export default function services() {
             <div className="container">
                 <SectionTitle
                     title="OVERVIEW"
-                    subTitle="What i do"
+                    subTitle="SKILLS"
                     desc=""
                 />
             </div>
@@ -28,6 +28,9 @@ export default function services() {
                             </div>
                             <div className="skill-project">
                                 <h4 className="mb-3">UI/UX Design</h4>
+                                <p>Experience with Figma as well as CSS Frameworks 
+                                    such as Chakra UI and Bootstrap
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -39,6 +42,9 @@ export default function services() {
                             </div>
                             <div className="skill-project">
                                 <h4 className="mb-3">Web Development</h4>
+                                <p>Responsive web design layout using Javascript , 
+                                    ReactJS, NextJS , React Native
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -50,6 +56,8 @@ export default function services() {
                             </div>
                             <div className="skill-project">
                                 <h4 className="mb-3">Research</h4>
+                                <p>Constantly learning new technologies and keeping up to date 
+                                    with the lastest software development trends</p>
                             </div>
                         </div>
                     </div>
@@ -61,6 +69,10 @@ export default function services() {
                             </div>
                             <div className="skill-project">
                                 <h4 className="mb-3">Business Analysis</h4>
+                                <p>Business Analysis:Udemy 
+                                    Requirements elicitation and analysis :LinkedIn Learn 
+                
+                                </p>
                             </div>
                         </div>
                     </div>
