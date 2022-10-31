@@ -69,10 +69,11 @@ export default function services() {
                             </div>
                             <div className="skill-project">
                                 <h4 className="mb-3">Business Analysis</h4>
-                                <h6>Business Analysis:Udemy 
+                                
+                                <p>Business Analysis:Udemy 
                                     Requirements elicitation and analysis :LinkedIn Learn 
                 
-                                </h6>
+                                </p>
                             </div>
                         </div>
                     </div>
