@@ -96,9 +96,16 @@ export default function slider() {
                                                 <h3 className="section-name pc">INTRODUCTION</h3>
                                                 <h2>Software Developer</h2>
                                                 <p className="pr-20">
-                                                    An aspiring full stack software developer,
-                                                    with keen interests in programming, psychology and fashion.
-                                                    My daily bread is CSS and my mother tongue is Javascript.</p>
+                                                   
+                                                   
+                                                 
+                                                    I am a Front End Developer, who primarly works on web development using React.
+                                                    I have aspirations of becoming a full stack software developer.My daily bread is CSS and my mother tongue is Javascript.
+                                                     I have keen interests in programming, psychology and fashion.
+                                                    I gained my experience through shadowing senior developers at Danware Academy 
+                                                    who got me exposed different concepts and projects.
+                                                     .I am passionate about learning and currently seeking for a position as
+                                                      an Intern/Junior Developer in a company with innovative ideas to help me build and improve my software development skills.</p>
                                             </div>
                                             <div className="intro-button">
                                                 <Link
@@ -108,7 +115,15 @@ export default function slider() {
                                                     duration={2000}
                                                     activeClass="active"
                                                     spy={false}
-                                                    offset={5}> What i do &nbsp; <i><FaLongArrowAltDown /></i></Link>
+                                                    offset={5}> Why l want to join SovTech &nbsp; <i><FaLongArrowAltDown /></i>
+                                                    <p>My primary reason for wanting to join SovTech graduate program is because 
+                                                        after an in-depth investigation of what SovTech does , I'm filled with 
+                                                        so much excitement . Being given the opportunity to work at a #WorldClass 
+                                                        software development company would be a privilege. I #GiveAShit about 
+                                                        working in a flexible and fluid environment with opportunities to explore
+                                                        different avenues and roles . I feel SovTech is one such place.
+                                                    </p>
+                                                    </Link>
                                             </div>
                                         </div>
                                     </div>
